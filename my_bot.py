@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 from pytube import YouTube
 
-TOKEN = "8121555720:AAHOZ3WNi5H7N0lrNrK4dyCoY_wTiaFpGzU"
+TOKEN = ""
 
 # /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
