@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # 🧩 ضع هنا التوكن الخاص ببوتك
-TOKEN = "8121555720:AAHOZ3WNi5H7N0lrNrK4dyCoY_wTiaFpGzU"
+TOKEN = ""
 
 app = Flask(__name__)
 
